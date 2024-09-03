@@ -24,6 +24,7 @@ correct_for_D2       = par_correct_for_D2;
 correct_for_MCBX     = par_correct_for_MCBX;
 print_errors         = par_verbose;
 write_errortable     = par_write_errortable;
+uniform_error_dist   = par_uniform_error_dist;
 
 
 
